@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Hlyam Htet Kyaw
 
-<!--
-**HlyamHtetKyaw/HlyamHtetKyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Enthusiast | Backend Developer | Software Architect  
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: Microservices Banking System  
+- 🌱 Learning more about: Backend Development & Software Architecture  
+- 💬 Ask me about: Java, Spring Boot, Docker, CI/CD  
+- ⚡ Fun fact: I love building projects fast and delivering results!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Backend: Java, Spring Boot, Laravel, Python, PHP
+- Frontend: React, JavaScript, Blade, Flutter
+- Tools: Git, GitHub, Docker, AWS, CI/CD
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HlyamHtetKyaw&show_icons=true&theme=radical)
