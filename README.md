@@ -1,6 +1,6 @@
 # <p align="center">✨ Hlyam Htet Kyaw</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Spring+Boot+%26+Microservices+Expert;B.E.+Information+Technology;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend-Focused+Full-Stack+Developer;Spring+Boot+%26+Microservices+Enthusiast;B.E.+Information+Technology;Building+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
